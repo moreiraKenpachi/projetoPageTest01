@@ -1,0 +1,100 @@
+.principal{
+    display:flex;
+    width:900px;
+    height:400px;      
+    flex-direction: column;
+}
+.rodape{
+    display:flex;
+    width:900px;
+    height:400px;    
+    flex-flow:wrap;
+    margin:70px;
+}
+.principal1{
+    display:flex;
+    width:800px;
+    height:200px;    
+    align-items: center;
+    justify-content: center;    
+}
+.principal2{
+    display:flex;
+    width:800px;
+    height:200px;    
+    align-items: center;
+    justify-content: center;    
+}
+.principal3{
+    display:flex;
+    width:800px;
+    height:200px;    
+    align-items: center;
+    justify-content: center;    
+}
+.final{
+    display:flex;
+    width:800px;
+    height:200px;    
+    align-items: center;
+    justify-content: center;   
+    flex-direction:column; 
+}
+.final1{
+    display:flex;
+    width:800px;
+    height:200px;    
+    align-items: center;
+    justify-content: center;    
+}
+.caixa{    
+    width:300px;
+    height:100px;
+    background-color: coral;
+    padding:5px;
+    font-size:15px;
+    margin:10px;  
+}
+.nome{
+    width:300px;
+    height:100px;
+    background-color:blue;
+    padding:5px;
+    font-size:15px;
+    margin:10px;        
+}
+.number{
+    width:300px;
+    height:100px;
+    background-color: darkgreen;
+    padding:5px;
+    font-size:15px;
+    margin:10px;        
+}
+.rodape1{
+    width:200px;
+    height:100px;
+    background-color:purple;
+    padding:5px;
+    font-size:15px;
+    margin:10px; 
+         
+}
+.final2a{    
+    width:450px;
+    height:100px;
+    background-color: coral;
+    padding:5px;
+    font-size:15px;
+    margin:10px; 
+    
+}
+.final2b{    
+    width:150px;
+    height:100px;
+    background-color: coral;
+    padding:5px;
+    font-size:15px;
+    margin:10px; 
+     
+}
